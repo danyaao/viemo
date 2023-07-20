@@ -1,0 +1,30 @@
+name: viemo
+description: A Movie Flutter App
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  bloc: ^8.1.2
+  dio: ^5.3.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^9.1.0
+  google_fonts: ^5.1.0
+  intl: any
+  isar: ^3.1.0+1
+  rxdart: ^0.27.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

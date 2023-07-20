@@ -1,0 +1,6 @@
+package dev.danyaao.viemo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
