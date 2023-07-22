@@ -1,0 +1,1 @@
+class EmptySearchResultKinopoiskApiException implements Exception {}
